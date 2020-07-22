@@ -32,7 +32,7 @@ TicTacToe is a 3x3 grid dual player game that assignes symbols(Xs,Os) to players
 
 ## 🔴 Live Demo <a name = "demo"></a>
 
-[Run on Repl.it](https://repl.it/@Haroon136/tictactoe#logic.rb)
+[Run on Repl.it](https://repl.it/@Haroon136/tictactoe#Logic.rb)
 
 
 ## 🔨 Setup    <a name = "setup"></a>
@@ -40,7 +40,7 @@ TicTacToe is a 3x3 grid dual player game that assignes symbols(Xs,Os) to players
 - To clone the repo to your local repository. Follow this steps
 - <code> git clone https://github.com/Haroonabdulrazaq/tictactoe.git</code>
 - <code> cd tictactoe</code>
-- <code>ruby logic.rb</code>
+- <code>ruby Logic.rb</code>
 
 
 ## ✒️ Authors <a name = "author"></a>
