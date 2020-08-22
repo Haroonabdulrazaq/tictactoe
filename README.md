@@ -37,7 +37,7 @@ TicTacToe is a 3x3 grid dual player game that assignes symbols(Xs,Os) to players
 
 ## 🔨 Setup    <a name = "setup"></a>
 
-- To clone this repo to your local repository. Follow this steps
+- To clone this repo to your local repository. Follow these steps
 - <code> git clone https://github.com/Haroonabdulrazaq/tictactoe.git</code>
 - <code> cd tictactoe</code>
 - <code>ruby Logic.rb</code>
